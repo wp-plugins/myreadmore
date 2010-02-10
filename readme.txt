@@ -1,7 +1,7 @@
 ﻿=== My Read More ===
 Contributors: FMacastro (Miguel Azevedo e Castro)
 Donate link: http://www.wdmac.com/buy-me-a-coffee
-Tags: Read more, exerpt, post, listing, link, custom, WCAG, W3C, accessibility, validation, AAA 
+Tags: Read more, excerpt, post, listing, link, custom, WCAG, W3C, accessibility, validation, AAA 
 Requires at least: 2.0.2
 Tested up to: 2.9.1
 Stable tag: 2.9.1
@@ -12,7 +12,7 @@ This plugin replaces the default "read more" with custom text, AND adds a chosen
 <h1>MyReadMore</h1>
 This plugin replaces the default "read more" hyperlink with your chosen text AND adds a chosen number of the post-title-words to it, so all text links read different from each other.
 
-In the <strong>myReadMore panel</strong>, you can enter the "constant" word or words you wish to use to replace the default "Read more". Then you will choose how many of the post-title-words you wish to add to it, to make a unique "continue reading" link.
+In the <strong>myReadMore panel</strong>, you can enter the "constant" word or words you wish to use to replace the default "Read more". Then you will choose how many of the post-title-words you wish to add to it, to make a unique "continue reading" link. 
 
 == Installation ==
 
@@ -47,11 +47,13 @@ The code is w3C valid and passes W3C automatic Validation for XHTML 1.0 Transiti
 
 = is the code "valid" regarding Accessibility? =
 
-This code passes "UMIC eXaminator", "TAW" and "Cynthia Says" Automatic Validators for AAA acessibility conformance.
+This code passes "UMIC eXaminator", "TAW" and "Cynthia Says" Automatic Validators for AAA accessibility conformance.
 
 == Screenshots ==
 
-1. This screenshot shows an example of a custom dynamic "read more" hyperlink, notice the Constant 
+1. This screenshot shows an example of a custom dynamic "read more" hyperlink.
+
+Notice the Constant "More About" and the Dynamically-added 3-post-title-words: "myReadMore WordPress accessibility" (…) making a unique hyperlink!
 
 == Changelog ==
 
