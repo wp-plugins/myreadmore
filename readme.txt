@@ -25,6 +25,8 @@ In the <strong>myReadMore panel</strong>, you can enter the "constant" word or w
 
 Hyperlinks should clearly indicate their targets, so that users know in advance what to expect, should they choose to open them.
 
+- If you want your website to be accessible (<strong>and to pass automatic accessibility validators</strong>) you need to fix this issue.
+
 To avoid this repetition, we should use different text links to different content. 
 
 This plugin is about achieving that in a straightforward way, making your website overall more accessible to all users.
