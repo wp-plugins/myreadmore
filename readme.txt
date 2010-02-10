@@ -6,8 +6,7 @@ Requires at least: 2.0.2
 Tested up to: 2.9.1
 Stable tag: 2.9.1
 
-Increasing word press accessibility conformance, according to the W3C-WCAG - This plugin allows you to replace the default \"read more\" with your chosen text AND adds a chosen number of the post-title-words to it, so all text links read different from each other.
-
+This plugin replaces the default "read more" with your chosen text, AND adds a chosen number of the post-title-words to it, so all your “read more” links are unique.
 == Description ==
 
 <h1>MyReadMore</h1>
