@@ -51,9 +51,7 @@ This code passes "UMIC eXaminator", "TAW" and "Cynthia Says" Automatic Validator
 
 == Screenshots ==
 
-1. This screenshot shows an example of a custom dynamic "read more" hyperlink.
-
-Notice the Constant "More About" and the Dynamically-added 3-post-title-words: "myReadMore WordPress accessibility" (…) making a unique hyperlink!
+1. This screenshot shows an example of a custom dynamic "read more" hyperlink. - Notice the Constant "More About" and the Dynamically-added 3-post-title-words: "myReadMore WordPress accessibility" (…) making a unique hyperlink!
 
 == Changelog ==
 
